@@ -1,0 +1,4 @@
+Nombre del paciente: Elias
+Fecha de cita: 1/5/1995 12:00:00 AM
+Razon de consulta: Toz
+Costo de consulta: $50

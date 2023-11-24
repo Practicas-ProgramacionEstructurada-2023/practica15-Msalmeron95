@@ -1,0 +1,14 @@
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\bin\Debug\net7.0\practica15-Msalmeron95.exe
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\bin\Debug\net7.0\practica15-Msalmeron95.deps.json
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\bin\Debug\net7.0\practica15-Msalmeron95.runtimeconfig.json
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\bin\Debug\net7.0\practica15-Msalmeron95.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\bin\Debug\net7.0\practica15-Msalmeron95.pdb
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.AssemblyInfoInputs.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.AssemblyInfo.cs
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.csproj.CoreCompileInputs.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\refint\practica15-Msalmeron95.dll
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.pdb
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\practica15-Msalmeron95.genruntimeconfig.cache
+C:\Users\briya\OneDrive\Studies\El Salvador\Univo\2nd Semester\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\Projects\C#\practica15-Msalmeron95\obj\Debug\net7.0\ref\practica15-Msalmeron95.dll

@@ -1,0 +1,4 @@
+Nombre del paciente: Martin
+Fecha de cita: 1/4/2023 12:00:00 AM
+Razon de consulta: Gripe
+Costo de consulta: $50
